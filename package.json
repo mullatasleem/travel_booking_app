@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Vishn03.github.io/travelreact",
+  "homepage": "https://mullatasleem.github.io/travelapp",
   "name": "consistency",
   "version": "1.0.0",
   "main": "index.js",
@@ -9,8 +9,7 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject":"react-scripts eject"
-    
+    "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "",
